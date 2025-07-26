@@ -1,385 +1,398 @@
 <div align="center">
 
-<!-- LOGO PLACEHOLDER - Replace with your actual logo -->
+```
+██████╗ ███████╗ ██████╗██████╗ ██╗   ██╗██╗████████╗██╗ ██████╗ 
+██╔══██╗██╔════╝██╔════╝██╔══██╗██║   ██║██║╚══██╔══╝██║██╔═══██╗
+██████╔╝█████╗  ██║     ██████╔╝██║   ██║██║   ██║   ██║██║   ██║
+██╔══██╗██╔══╝  ██║     ██╔══██╗██║   ██║██║   ██║   ██║██║▄▄ ██║
+██║  ██║███████╗╚██████╗██║  ██║╚██████╔╝██║   ██║   ██║╚██████╔╝
+╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝   ╚═╝   ╚═╝ ╚══▀▀═╝ 
+```
 
+# **RecruitiQ Agency** 🤖
+### *AI-Powered Resume Screening & Candidate Matching System*
 
-# RecruitiQ Agency
-### 🚀 Next-Gen AI-Powered Recruitment Platform
+> **A Smart College Project That Actually Works**  
+> *Built with Python, Streamlit, and Local AI Models*
 
-*Making hiring smarter, faster, and more human with artificial intelligence*
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-AWS_Deployed-success?style=for-the-badge)](YOUR_AWS_URL_HERE)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.8+-yellow.svg?style=for-the-badge&logo=python)](https://python.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
-[![AWS](https://img.shields.io/badge/AWS-Deployed-orange?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com)
+[![🛠️ Built With](https://img.shields.io/badge/Built_With-Python%20|%20Streamlit%20|%20Ollama-blue?style=for-the-badge)](https://github.com/codexrahulKIIT/RecruitiQ-Agency-)
+[![📱 Contact](https://img.shields.io/badge/Contact-+91_6202587293-25D366?style=for-the-badge&logo=whatsapp)](tel:+916202587293)
+[![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-1000%2B_Views-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahulkumar-mca/)
+[![✉️ Email](https://img.shields.io/badge/Email-rahulkr.tech247%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:rahulkr.tech247@gmail.com)
 
 </div>
 
 ---
 
-## 🎯 What is RecruitiQ Agency?
+## 🎯 **What is This Project?**
 
-**RecruitiQ Agency** transforms the way companies hire talent. Imagine having an AI assistant that can read hundreds of resumes in seconds, understand exactly what makes a candidate perfect for your role, and present you with a ranked list of the best matches - all while explaining why each candidate is a great fit.
+**RecruitiQ Agency** is my college project that demonstrates how AI can make hiring smarter and faster. Instead of HR managers manually reading through hundreds of resumes, this system uses AI to automatically analyze resumes, match them with job requirements, and rank candidates based on how well they fit the role.
 
-Built for **HR professionals**, **recruiters**, and **hiring managers** who want to:
-- ⏰ Save 80% of their screening time
-- 🎯 Find better candidate matches
-- 📊 Make data-driven hiring decisions
-- 🤖 Leverage AI without losing the human touch
+### **🚀 What Makes This Unique?**
+- **Runs Completely Locally** - No data sent to external APIs, everything processes on your machine
+- **Smart AI Analysis** - Uses advanced language models to understand both job requirements and candidate profiles
+- **Real Resume Processing** - Handles actual PDF and DOCX resume files, not just text
+- **Visual Interface** - Clean, professional web interface built with Streamlit
+- **Practical Solution** - Solves a real-world problem that companies face every day
 
-## 🌟 Why Choose RecruitiQ?
+---
 
-<table>
-<tr>
-<td width="50%">
-
-### Traditional Hiring 😓
-- Hours spent reading resumes
-- Inconsistent candidate evaluation
-- Manual tracking and ranking
-- Bias in initial screening
-- Missed qualified candidates
-
-</td>
-<td width="50%">
-
-### With RecruitiQ 🚀
-- AI reads resumes in seconds
-- Consistent, objective analysis
-- Automated ranking with explanations
-- Reduced unconscious bias
-- Never miss a great candidate
-
-</td>
-</tr>
-</table>
-
-## 📸 See It In Action
+## 📸 **See It In Action**
 
 <div align="center">
 
-### 🎯 RecruitiQ Agency - Main Interface
-<img src="https://github.com/codexrahulKIIT/RecruitiQ-Agency-/blob/4c631590795b40fee28aeb01f61d14e064509e65/results/AI%20Recruiter%20Agency%20shot.png" alt="RecruitiQ Agency Main Interface" width="800">
-*Complete AI-powered recruitment platform with intelligent candidate matching and analysis*
+### **🎯 Main Application Interface**
+<img src="https://github.com/codexrahulKIIT/RecruitiQ-Agency-/blob/4c631590795b40fee28aeb01f61d14e064509e65/results/AI%20Recruiter%20Agency%20shot.png" alt="RecruitiQ Interface" width="800">
+*Clean, intuitive interface for uploading job descriptions and resumes*
 
-### ☁️ AWS Deployment Dashboard
-<img src="https://github.com/codexrahulKIIT/RecruitiQ-Agency-/blob/4c631590795b40fee28aeb01f61d14e064509e65/results/AI%20Recruiter%20Agency%20Aws%20shot.png" alt="RecruitiQ Agency AWS Deployment" width="800">
-*Professional AWS cloud deployment with scalable infrastructure and monitoring*
+### **☁️ AWS Deployment (Optional)**
+<img src="https://github.com/codexrahulKIIT/RecruitiQ-Agency-/blob/4c631590795b40fee28aeb01f61d14e064509e65/results/AI%20Recruiter%20Agency%20Aws%20shot.png" alt="AWS Deployment" width="800">
+*Deployed on AWS to show cloud deployment skills*
 
 </div>
 
-## ✨ Key Features
+---
+
+## ⚡ **Key Features I Built**
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/artificial-intelligence.png" alt="AI Icon">
-<h3>🧠 Smart AI Matching</h3>
-<p>Our AI understands job requirements and candidate profiles like a human recruiter, but processes them 100x faster</p>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/speed.png" alt="Speed Icon">
-<h3>⚡ Lightning Fast</h3>
-<p>Process 100+ resumes in under 60 seconds. What used to take days now takes minutes</p>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/security-checked.png" alt="Security Icon">
-<h3>🔒 Privacy First</h3>
-<p>All data processing happens locally. Your candidate information never leaves your control</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.icons8.com/color/96/analytics.png" alt="Analytics Icon">
-<h3>📊 Smart Analytics</h3>
-<p>Get insights into your hiring patterns, success rates, and process improvements</p>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/color/96/easy.png" alt="Easy Icon">
-<h3>🎯 Easy to Use</h3>
-<p>No technical knowledge required. If you can use email, you can use RecruitiQ</p>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/color/96/cloud.png" alt="Cloud Icon">
-<h3>☁️ AWS Powered</h3>
-<p>Deployed on reliable AWS infrastructure for 99.9% uptime and global accessibility</p>
-</td>
-</tr>
-</table>
+
+| **🧠 AI Processing** | **📄 File Handling** | **🎨 User Interface** |
+|:-------------------:|:--------------------:|:---------------------:|
+| Analyzes job requirements automatically | Supports PDF and DOCX resumes | Clean, modern web interface |
+| Matches candidates using NLP | Extracts text from documents | Real-time processing feedback |
+| Scores and ranks candidates | Handles multiple file uploads | Responsive design |
+| Explains why each match works | Processes various resume formats | Professional styling |
+
 </div>
 
-## 🚀 Try It Now - Live Demo
+---
 
-**🌐 [Access RecruitiQ Agency Live Demo](YOUR_AWS_URL_HERE)**
+## 🛠️ **How to Run This Project**
 
-*No installation required! Our platform is deployed on AWS and ready to use.*
+### **📋 Prerequisites**
+Before you start, make sure you have:
+- **Python 3.8+** installed on your computer
+- **Git** for cloning the repository
+- **At least 4GB RAM** (for running AI models)
+- **10GB free disk space** (for AI model downloads)
 
-### Sample Test Data
-Want to try it out? We've included sample job descriptions and resumes:
-- 📄 [Sample Job Description](assets/sample-data/job-description.pdf)
-- 📋 [Sample Resumes Pack](assets/sample-data/sample-resumes.zip)
+### **🚀 Step-by-Step Installation**
 
-## 🛠️ How It Works
-
-<div align="center">
-<img src="assets/workflow-diagram.png" alt="RecruitiQ Workflow" width="800">
-</div>
-
-### Simple 4-Step Process:
-
-```mermaid
-graph LR
-    A[📝 Create Job Post] --> B[📤 Upload Resumes]
-    B --> C[🤖 AI Analysis]
-    C --> D[📊 Get Ranked Results]
-    
-    style A fill:#e1f5fe
-    style B fill:#f3e5f5
-    style C fill:#e8f5e8
-    style D fill:#fff3e0
-```
-
-1. **📝 Create Your Job Post**: Tell us what you're looking for in plain English
-2. **📤 Upload Resumes**: Drag and drop resumes (PDF, DOCX) - we handle the rest
-3. **🤖 Let AI Work**: Our AI analyzes, matches, and ranks candidates automatically
-4. **📊 Review Results**: Get ranked candidates with detailed explanations
-
-## 💻 For Developers - Local Installation
-
-<details>
-<summary><strong>🔧 Click to expand installation guide</strong></summary>
-
-### Prerequisites
-- Python 3.8+ 🐍
-- [Ollama](https://ollama.ai/) 🦙
-- Git 📚
-
-### Quick Setup
+#### **1. Clone the Repository**
 ```bash
-# 1. Clone the repository
 git clone https://github.com/codexrahulKIIT/RecruitiQ-Agency-.git
 cd RecruitiQ-Agency-
+```
 
-# 2. Create virtual environment
-python -m venv recruitiq-env
-source recruitiq-env/bin/activate  # Windows: recruitiq-env\Scripts\activate
+#### **2. Set Up Python Environment**
+```bash
+# Create virtual environment
+python -m venv recruitiq_env
 
-# 3. Install dependencies
+# Activate it
+# On Windows:
+recruitiq_env\Scripts\activate
+# On Mac/Linux:
+source recruitiq_env/bin/activate
+```
+
+#### **3. Install Dependencies**
+```bash
 pip install -r requirements.txt
+```
 
-# 4. Setup Ollama (AI Engine)
+#### **4. Install and Setup Ollama (AI Engine)**
+```bash
+# Download Ollama from https://ollama.ai/
+# Or use these commands:
+
+# For Windows/Mac: Download installer from website
+# For Linux:
+curl -fsSL https://ollama.ai/install.sh | sh
+
+# Pull the AI model (this will download ~4GB)
 ollama pull llama2
+
+# Start Ollama server
 ollama serve
+```
 
-# 5. Configure application
-cp config.yaml.example config.yaml
-# Edit config.yaml with your preferences
-
-# 6. Launch the application
+#### **5. Run the Application**
+```bash
 streamlit run app.py
 ```
 
-**🎉 That's it! Visit `http://localhost:8501` to start using RecruitiQ**
+#### **6. Open Your Browser**
+Go to `http://localhost:8501` and start using the application!
 
-</details>
+### **📱 Quick Test**
+1. Create a simple job description in the text area
+2. Upload a few sample resumes (PDF or DOCX)
+3. Click "Analyze Candidates"
+4. See the AI-generated rankings and explanations
 
-## 🌍 AWS Deployment Details
+---
 
-Our platform is professionally deployed on AWS with:
-
-- **🏗️ Architecture**: Multi-tier application architecture
-- **💾 Database**: Amazon RDS for reliable data storage
-- **🔒 Security**: VPC, Security Groups, and SSL certificates
-- **📈 Scalability**: Auto-scaling groups for high availability
-- **🌐 CDN**: CloudFront for fast global access
-- **📊 Monitoring**: CloudWatch for performance tracking
-
-### Deployment Specifications:
-- **Instance Type**: t3.large (optimized for AI workloads)
-- **Region**: US-East-1 (Virginia)
-- **Availability**: 99.9% uptime SLA
-- **Load Balancer**: Application Load Balancer with health checks
-
-## 📱 User Guide
-
-### For HR Managers
-1. **Getting Started**: Create your account and set up your first job posting
-2. **Managing Jobs**: Learn to configure job requirements and preferences
-3. **Review Process**: Understanding AI recommendations and making decisions
-
-### For Recruiters
-1. **Bulk Processing**: Handle multiple positions and candidate pools
-2. **Analytics Usage**: Leverage data insights for better sourcing
-3. **Integration**: Connect with your existing ATS systems
-
-### For Hiring Managers
-1. **Quick Reviews**: Efficiently review top-ranked candidates
-2. **Collaboration**: Share insights with your team
-3. **Decision Making**: Use AI insights to make informed choices
-
-## 🎨 Customization Options
-
-<div align="center">
-<img src="assets/customization-options.png" alt="Customization Interface" width="600">
-</div>
-
-- **🎯 Matching Criteria**: Adjust weights for skills, experience, education
-- **🎨 Branding**: Customize with your company colors and logo
-- **📊 Reports**: Generate branded reports for stakeholders
-- **🔧 Workflows**: Adapt the process to your hiring workflow
-
-## 📊 Performance & Metrics
+## 🎨 **How It Actually Works**
 
 <div align="center">
 
-| Metric | Performance |
-|--------|-------------|
-| ⚡ Resume Processing | 2-3 seconds per resume |
-| 🎯 Matching Accuracy | 85-92% based on user feedback |
-| 👥 Concurrent Users | Up to 50 simultaneous users |
-| 📈 Speed Improvement | 80% faster than manual screening |
-| 💾 Storage Capacity | 10,000+ resumes per instance |
-
-</div>
-
-## 🤝 Community & Support
-
-<div align="center">
-
-### Join Our Community
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER)
-
-### Get Help
-
-- 📧 **Email Support**: [support@recruitiq.agency](mailto:support@recruitiq.agency)
-- 💬 **Live Chat**: Available on our website 24/7
-- 📖 **Documentation**: [Full Documentation Wiki](https://github.com/codexrahulKIIT/RecruitiQ-Agency-/wiki)
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/codexrahulKIIT/RecruitiQ-Agency-/issues)
-
-</div>
-
-## 🗺️ Roadmap - What's Coming Next
-
-<div align="center">
+### **🔄 RecruitiQ Processing Pipeline**
 
 ```mermaid
-timeline
-    title RecruitiQ Development Roadmap
+flowchart TD
+    A["🏢 JOB DESCRIPTION<br/>📝 Requirements Input<br/>💼 Skills & Experience"] --> B["📁 RESUME UPLOAD<br/>📤 PDF/DOCX Files<br/>👥 Multiple Candidates"]
     
-    Q1 2024 : Current Release
-             : AI Matching Engine
-             : Resume Analysis
-             : AWS Deployment
+    B --> C["🔍 DOCUMENT PROCESSING<br/>📄 Text Extraction<br/>🔧 Format Parsing"]
     
-    Q2 2024 : Video Interview AI
-             : Multi-language Support
-             : Mobile App Beta
+    C --> D["🤖 AI JOB ANALYSIS<br/>🧠 Understanding Requirements<br/>🎯 Key Skills Identification"]
     
-    Q3 2024 : ATS Integrations
-             : Advanced Analytics
-             : Team Collaboration
+    D --> E["🧠 AI RESUME ANALYSIS<br/>📊 Candidate Profile Building<br/>🔍 Skills & Experience Mapping"]
     
-    Q4 2024 : Predictive Hiring
-             : Custom AI Models
-             : Enterprise Features
+    E --> F["⚖️ INTELLIGENT MATCHING<br/>🎯 Score Calculation<br/>📈 Ranking Algorithm"]
+    
+    F --> G["📊 RESULTS DASHBOARD<br/>🏆 Ranked Candidates<br/>💡 Match Explanations"]
+    
+    style A fill:#FF6B6B,stroke:#FF4757,stroke-width:4px,color:#fff
+    style B fill:#4ECDC4,stroke:#00CEC9,stroke-width:4px,color:#fff
+    style C fill:#45B7D1,stroke:#0984E3,stroke-width:4px,color:#fff
+    style D fill:#96CEB4,stroke:#00B894,stroke-width:4px,color:#fff
+    style E fill:#FFEAA7,stroke:#FDCB6E,stroke-width:4px,color:#333
+    style F fill:#DDA0DD,stroke:#A29BFE,stroke-width:4px,color:#fff
+    style G fill:#98D8C8,stroke:#00B894,stroke-width:4px,color:#fff
+    
+    classDef default font-weight:bold,font-size:12px
 ```
+
+### **🚀 Step-by-Step Process Breakdown**
+
+<table>
+<tr>
+<td align="center" width="16.66%">
+<div style="background: linear-gradient(135deg, #FF6B6B, #FF4757); padding: 20px; border-radius: 10px; color: white; margin: 10px;">
+<h4>🏢 STEP 1</h4>
+<p><strong>Job Description</strong><br/>Define role requirements</p>
+</div>
+</td>
+<td align="center" width="16.66%">
+<div style="background: linear-gradient(135deg, #4ECDC4, #00CEC9); padding: 20px; border-radius: 10px; color: white; margin: 10px;">
+<h4>📁 STEP 2</h4>
+<p><strong>Upload Resumes</strong><br/>Add candidate files</p>
+</div>
+</td>
+<td align="center" width="16.66%">
+<div style="background: linear-gradient(135deg, #45B7D1, #0984E3); padding: 20px; border-radius: 10px; color: white; margin: 10px;">
+<h4>🔍 STEP 3</h4>
+<p><strong>Text Processing</strong><br/>Extract & clean data</p>
+</div>
+</td>
+<td align="center" width="16.66%">
+<div style="background: linear-gradient(135deg, #96CEB4, #00B894); padding: 20px; border-radius: 10px; color: white; margin: 10px;">
+<h4>🤖 STEP 4</h4>
+<p><strong>AI Analysis</strong><br/>Understand requirements</p>
+</div>
+</td>
+<td align="center" width="16.66%">
+<div style="background: linear-gradient(135deg, #FFEAA7, #FDCB6E); padding: 20px; border-radius: 10px; color: #333; margin: 10px;">
+<h4>🧠 STEP 5</h4>
+<p><strong>Resume Analysis</strong><br/>Profile each candidate</p>
+</div>
+</td>
+<td align="center" width="16.66%">
+<div style="background: linear-gradient(135deg, #DDA0DD, #A29BFE); padding: 20px; border-radius: 10px; color: white; margin: 10px;">
+<h4>📊 STEP 6</h4>
+<p><strong>Smart Results</strong><br/>Ranked with explanations</p>
+</div>
+</td>
+</tr>
+</table>
 
 </div>
 
-### 🎯 Upcoming Features:
-- **🎥 Video Interview Analysis**: AI-powered video interview evaluation
-- **🌍 Multi-language Support**: Process resumes in 15+ languages
-- **📱 Mobile App**: Native iOS and Android applications
-- **🔗 ATS Integration**: Connect with Workday, BambooHR, Greenhouse
-- **🤖 Custom AI Models**: Train AI on your specific hiring patterns
+### **🔧 Technical Implementation**
+- **Frontend**: Streamlit for the web interface
+- **AI Engine**: Ollama running Llama2 model locally
+- **File Processing**: PyPDF2 and python-docx for extracting text
+- **Text Analysis**: Custom prompts for job-resume matching
+- **Scoring**: Weighted algorithm based on skills, experience, and requirements
 
-## 💝 Contributing
+---
 
-We love contributions from the community! Here's how you can help:
-
-### 🌟 Ways to Contribute:
-- **🐛 Bug Reports**: Found a bug? Let us know!
-- **💡 Feature Ideas**: Have a great idea? Share it with us!
-- **📝 Documentation**: Help improve our guides and tutorials
-- **💻 Code**: Submit pull requests for new features or fixes
-- **🎨 Design**: Improve our UI/UX
-
-### 📋 Quick Contribution Guide:
-```bash
-# 1. Fork the repository on GitHub
-# 2. Clone your fork locally
-git clone https://github.com/yourusername/RecruitiQ-Agency-.git
-
-# 3. Create a feature branch
-git checkout -b feature/amazing-new-feature
-
-# 4. Make your changes and commit
-git commit -m "Add amazing new feature"
-
-# 5. Push to your fork and submit a pull request
-git push origin feature/amazing-new-feature
-```
-
-## 🏆 Success Stories
-
-> *"RecruitiQ helped us reduce our time-to-hire by 60% while improving candidate quality. It's like having a senior recruiter working 24/7!"*
-> 
-> **- Sarah Johnson, HR Director at TechCorp**
-
-> *"The AI explanations help me understand why each candidate is a good fit. It's not just automation - it's intelligent assistance."*
-> 
-> **- Michael Chen, Talent Acquisition Manager**
-
-## 📄 License & Legal
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-### 🛡️ Privacy & Security:
-- **GDPR Compliant**: Built with European privacy standards
-- **SOC 2 Type II**: Enterprise-grade security controls
-- **Data Encryption**: All data encrypted in transit and at rest
-- **Local Processing**: Sensitive data never leaves your environment
-
-## 👨‍💻 About the Creator
+## 💻 **Tech Stack & Architecture**
 
 <div align="center">
 
-### Rahul - Full Stack Developer & AI Enthusiast
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codexrahulKIIT)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-
-*Passionate about using AI to solve real-world problems and make technology more human-centered.*
+| **Layer** | **Technology** | **Why I Chose It** |
+|:---------:|:--------------:|:------------------:|
+| **🎨 Frontend** | Streamlit | Easy to build professional web apps with Python |
+| **🧠 AI/ML** | Ollama + Llama2 | Runs locally, no API costs, privacy-focused |
+| **📄 File Processing** | PyPDF2, python-docx | Handle real resume files in common formats |
+| **🐍 Backend** | Python | Versatile, great AI/ML libraries |
+| **☁️ Deployment** | AWS EC2 (optional) | Industry-standard cloud platform |
+| **📊 Data** | In-memory processing | Simple, fast, no database complexity for demo |
 
 </div>
 
 ---
 
-<div align="center">
+## 🎓 **Project Learning Outcomes**
 
-### 🚀 Ready to Transform Your Hiring Process?
+### **🧠 Skills Demonstrated**
+- **AI/ML Integration** - Working with local language models
+- **Full-Stack Development** - Frontend and backend implementation  
+- **File Processing** - Handling various document formats
+- **User Experience Design** - Creating intuitive interfaces
+- **Cloud Deployment** - AWS hosting and configuration
+- **Problem Solving** - Addressing real-world hiring challenges
 
-**[🌐 Try RecruitiQ Agency Now](YOUR_AWS_URL_HERE)**
-
-*No credit card required • Free trial available • Setup in 5 minutes*
+### **🔍 Technical Challenges Solved**
+1. **Local AI Processing** - Making AI work without expensive APIs
+2. **File Format Handling** - Processing different resume formats reliably
+3. **Performance Optimization** - Handling multiple resumes efficiently
+4. **User Interface Design** - Making complex AI results easy to understand
+5. **Deployment** - Getting everything running on cloud infrastructure
 
 ---
 
-**Made with ❤️ and AI for the future of recruitment**
+## 📊 **Project Specifications**
 
-*If RecruitiQ Agency helps your hiring process, please ⭐ star this repository and share it with others!*
+<div align="center">
 
-### 📈 Project Stats
+### **⚡ Performance Metrics**
 
-![GitHub stars](https://img.shields.io/github/stars/codexrahulKIIT/RecruitiQ-Agency-?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codexrahulKIIT/RecruitiQ-Agency-?style=social)
-![GitHub issues](https://img.shields.io/github/issues/codexrahulKIIT/RecruitiQ-Agency-)
-![GitHub last commit](https://img.shields.io/github/last-commit/codexrahulKIIT/RecruitiQ-Agency-)
+| **Feature** | **Specification** | **Notes** |
+|:-----------:|:----------------:|:---------:|
+| **Processing Speed** | ~10-15 seconds per resume | Depends on AI model and hardware |
+| **File Support** | PDF, DOCX formats | Most common resume formats |
+| **Concurrent Users** | 1-5 users | Suitable for demo and small teams |
+| **AI Model Size** | ~4GB (Llama2) | Downloaded once, runs offline |
+| **Memory Usage** | 2-4GB RAM | Moderate resource requirements |
+
+</div>
+
+---
+
+## 🚧 **Current Status & Future Improvements**
+
+### **✅ What's Working**
+- Resume text extraction from PDF/DOCX files
+- AI-powered job requirement analysis
+- Candidate scoring and ranking
+- Clean web interface
+- Local deployment
+- Basic AWS deployment
+
+### **🔄 Potential Enhancements**
+- **Database Integration** - Store job postings and results
+- **User Authentication** - Multiple user accounts
+- **Advanced Analytics** - Hiring trend analysis
+- **Email Integration** - Send results to hiring managers  
+- **Mobile Responsiveness** - Better mobile experience
+- **Batch Processing** - Handle larger resume volumes
+
+---
+
+## 🎯 **Why This Project Matters**
+
+### **🏢 Real-World Problem**
+Hiring is expensive and time-consuming. Companies spend weeks screening resumes manually, often missing great candidates or making inconsistent decisions.
+
+### **💡 My Solution**
+An AI system that:
+- Processes resumes 20x faster than humans
+- Provides consistent, unbiased analysis
+- Explains its reasoning for transparency
+- Works offline for data privacy
+- Costs nothing to run after setup
+
+### **🎓 Academic Value**
+This project demonstrates:
+- Practical AI application
+- Real file processing
+- User interface design
+- Cloud deployment skills
+- Problem-solving approach
+
+---
+
+## 🤝 **Get in Touch**
+
+<div align="center">
+
+### **👨‍💻 About the Developer**
+
+**Rahul Kumar** - MCA Student & Python Developer  
+*Passionate about AI, Machine Learning, and solving real-world problems*
+
+### **📞 Contact Information**
+
+| **Channel** | **Details** | **Best For** |
+|:-----------:|:-----------:|:------------:|
+| **📱 Phone** | [+91 6202587293](tel:+916202587293) | Quick questions, project demos |
+| **✉️ Email** | [rahulkr.tech247@gmail.com](mailto:rahulkr.tech247@gmail.com) | Detailed discussions, opportunities |
+| **💼 LinkedIn** | [Professional Profile (1000+ views)](https://www.linkedin.com/in/rahulkumar-mca/) | Networking, career opportunities |
+| **💻 GitHub** | [More Projects](https://github.com/codexrahulKIIT) | Code collaboration, other work |
+
+</div>
+
+---
+
+## 📄 **Project Documentation**
+
+### **📁 File Structure**
+```
+RecruitiQ-Agency/
+│
+├── app.py                 # Main Streamlit application
+├── requirements.txt       # Python dependencies
+├── README.md             # This file
+├── config.yaml           # Configuration settings
+├── utils/                # Helper functions
+│   ├── file_processor.py # Resume text extraction
+│   ├── ai_matcher.py     # AI matching logic
+│   └── ui_components.py  # UI helper functions
+├── assets/              # Images and static files
+├── results/             # Screenshot examples
+└── sample-data/         # Test resumes and job descriptions
+```
+
+### **🔧 Configuration**
+The `config.yaml` file contains:
+- AI model settings
+- File upload limits
+- UI customization options
+- Deployment configurations
+
+---
+
+## 📜 **License & Usage**
+
+This project is open source under the **MIT License**. Feel free to:
+- ✅ Use it for learning
+- ✅ Modify and improve it
+- ✅ Use it in your own projects
+- ✅ Share it with others
+
+Just remember to give credit where it's due! 😊
+
+---
+
+<div align="center">
+
+### **🌟 If This Project Helped You**
+
+**Please ⭐ star this repository and share it with others!**
+
+[![GitHub Stars](https://img.shields.io/github/stars/codexrahulKIIT/RecruitiQ-Agency-?style=social)](https://github.com/codexrahulKIIT/RecruitiQ-Agency-)
+[![GitHub Forks](https://img.shields.io/github/forks/codexrahulKIIT/RecruitiQ-Agency-?style=social)](https://github.com/codexrahulKIIT/RecruitiQ-Agency-)
+
+---
+
+**💡 "Great projects start with simple ideas executed well"**
+
+*Built with ❤️ for learning, sharing, and solving real problems*
+
+**© 2024 Rahul Kumar | MCA Student | Python Developer**
 
 </div>
